@@ -1,0 +1,16 @@
+2018-06-15 13:13:07 INFO     util.py:85 loading libcrypto from libcrypto.so.1.1
+2018-06-15 13:13:08 INFO     shell.py:72 ShadowsocksR 3.4.0 2017-07-27
+2018-06-15 13:13:08 INFO     server.py:46 current process RLIMIT_NOFILE resource: soft 512000 hard 512000
+2018-06-15 13:13:08 INFO     asyncdns.py:324 dns server: [('8.8.8.8', 53)]
+2018-06-15 13:13:08 INFO     server.py:106 server start with protocol[auth_aes128_md5] password [b'm'] method [aes-128-ctr] obfs [tls1.2_ticket_auth_compatible] obfs_param []
+2018-06-15 13:13:08 INFO     server.py:122 starting server at [b'::']:8388
+2018-06-15 13:13:08 ERROR    shell.py:50 [Errno 98] Address already in use
+2018-06-15 13:13:08 INFO     server.py:142 starting server at 0.0.0.0:8388
+2018-06-15 13:13:08 ERROR    shell.py:50 [Errno 98] Address already in use
+2018-06-15 13:17:57 INFO     util.py:85 loading libcrypto from libcrypto.so.1.1
+2018-06-15 13:17:57 INFO     shell.py:72 ShadowsocksR 3.4.0 2017-07-27
+2018-06-15 13:17:57 INFO     server.py:46 current process RLIMIT_NOFILE resource: soft 512000 hard 512000
+2018-06-15 13:17:57 INFO     asyncdns.py:324 dns server: [('8.8.8.8', 53)]
+2018-06-15 13:17:57 INFO     server.py:106 server start with protocol[auth_aes128_md5] password [b'm'] method [aes-128-ctr] obfs [tls1.2_ticket_auth_compatible] obfs_param []
+2018-06-15 13:17:57 INFO     server.py:122 starting server at [b'::']:8388
+2018-06-15 13:17:57 INFO     server.py:142 starting server at 0.0.0.0:8388

@@ -1,5 +1,7 @@
 *.py[co]
 
+shadowsocks/package.json
+
 # Packages
 *.egg
 *.egg-info
